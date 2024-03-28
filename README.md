@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Balaji4321/Balaji4321/blob/main/Image.png)
 <h1 align="center">Hi 👋, I'm Balaji Waghmare</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 
